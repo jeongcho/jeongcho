@@ -4,7 +4,7 @@
 
 CTO/Ph.D.in Engineering
 
-A. B/D#1,1214-1,98,Gasan digital 2-ro,
+A. B/D#2,1312, 98, Gasan digital 2-ro,
 
 ​    Geumcheon-gu, Seoul, Korea 08506
 
