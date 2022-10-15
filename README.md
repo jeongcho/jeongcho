@@ -1,4 +1,3 @@
-![](./credcomm.png) 
 
 ### Jeong Cho
 
